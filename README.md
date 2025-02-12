@@ -1,2 +1,2 @@
-# L-Pandas
+# Pandas
 Leetcode Pandas solutions
